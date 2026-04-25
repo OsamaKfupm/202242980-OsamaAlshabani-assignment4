@@ -17,6 +17,9 @@
 - `docs/`  
   Contains documentation files (AI usage report and technical documentation)
 
+- `presentation/`  
+  Contains presentation materials related to the project (e.g., slides or demo content)
+
 ---
 
 ## 🧠 Design Decisions
@@ -83,4 +86,3 @@
   - Fallback when no relevant news is found
 
 ---
-
